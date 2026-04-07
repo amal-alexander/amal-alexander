@@ -264,15 +264,21 @@ agentic_use_cases = [
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=amal-alexander&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![snake gif](https://github.com/amal-alexander/amal-alexander/blob/output/github-contribution-grid-snake-dark.svg)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=amal-alexander&theme=dark&hide_border=true)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amal-alexander&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amal-alexander&theme=react-dark&hide_border=true)](https://github.com/amal-alexander)
 
 </div>
 
