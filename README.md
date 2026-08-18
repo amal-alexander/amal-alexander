@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=780&lines=🐸+Founder+%3A+Ultra+Frog+%7C+SearchCrawl+%7C+SEO+AI+Agent+Playground;🛠️+150%2B+Streamlit+Apps+%7C+100%2B+Google+Apps+Scripts;🧠+Local+LLM+Expert+%3A+Mistral+7B+%7C+Gemma+4B+%7C+NVIDIA+Models;🔍+SEO+Automation+Engineer+%7C+Python+%7C+Node.js+%7C+ML;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=780&lines=🐸+Founder+%3A+Ultra+Frog+%7C+SearchCrawl+%7C+SEO+AI+Agent;💻+Full-Stack+Dev+%7C+SEO+Automation+%7C+LLM+Engineer;🚀+150%2B+Streamlit+%7C+100%2B+Google+Apps+Scripts;📈+61%2B+Repos+%7C+Always+Shipping)](https://github.com/amal-alexander)
 
 <p>
   <a href="https://linkedin.com/in/amal-alexander-305780131"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" /></a>
@@ -27,7 +27,9 @@
 
 ## 🚀 Who I Am
 
-I'm a **Full-Stack Developer, SEO Automation Engineer & AI Builder** based in India, working at **Performics**. I build tools at the intersection of **Search Intelligence, LLMs, and Automation** — shipping products that solve real problems at scale.
+I'm a **Full-Stack Developer, SEO Automation Engineer & AI Builder** based in India, working at **Performics**. I build tools at the intersection of **Search Intelligence, LLMs, and Automation**. My passion is turning complex SEO challenges into elegant, scalable solutions using Python, AI, and automation.
+
+I'm the founder of **Ultra Frog**, **SearchCrawl**, and **SEO AI Agent Playground** — three production-grade tools powering SEO intelligence for thousands of users. Beyond that, I've shipped **150+ Streamlit apps** and **100+ Google Apps Scripts** solving real-world problems in data science, automation, and SEO.
 
 ```python
 amal = {
@@ -77,7 +79,7 @@ An agentic LLM framework purpose-built for SEO workflows. Powers keyword cluster
 <td width="50%">
 
 ### 📊 150+ Streamlit Apps
-A continuously growing library of production-ready Streamlit tools — SEO auditors, keyword research dashboards, ML demos, data visualization apps, and automation interfaces. One tool for every problem.
+A continuously growing library of production-ready Streamlit tools — SEO auditors, keyword research dashboards, ML demos, data visualization apps, and automation interfaces. Every tool ships with quality.
 
 `Python` `Streamlit` `Pandas` `Plotly` `APIs`
 
@@ -278,7 +280,7 @@ agentic_use_cases = [
 
 <div align="center">
 
-[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amal-alexander&theme=react-dark&hide_border=true)](https://github.com/amal-alexander)
+[![Amal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amal-alexander&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/amal-alexander)
 
 </div>
 
